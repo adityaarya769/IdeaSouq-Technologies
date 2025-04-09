@@ -15,6 +15,7 @@ A Streamlit web application that allows users to compare two PDF documents and v
 
 1. Clone this repository
 2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -22,9 +23,11 @@ pip install -r requirements.txt
 ## Usage
 
 1. Run the application:
+
 ```bash
 streamlit run app.py
 ```
+
 2. Open your web browser and navigate to the provided URL
 3. Upload two PDF documents using the file upload buttons
 4. View the differences and summary report
@@ -39,3 +42,5 @@ streamlit run app.py
 ## Requirements
 
 See `requirements.txt` for a complete list of dependencies.
+
+Deployed version: https://ideasouq-technologies-tpzxsubbppwplhz8ik8isy.streamlit.app/
